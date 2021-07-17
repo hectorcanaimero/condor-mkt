@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mkt-condor",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
